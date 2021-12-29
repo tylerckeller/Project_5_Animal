@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+Z:/CSCI 262/Project_5_Animal/animal.cpp
+iostream
+-
+fstream
+-
+string
+-
+cstdlib
+-
+queue
+-
+sstream
+-
+algorithm
+-
+cctype
+-
+

@@ -1,0 +1,3 @@
+Z:/CSCI 262/Project_5_Animal/cmake-build-debug/CMakeFiles/Project_5_Animal.dir
+Z:/CSCI 262/Project_5_Animal/cmake-build-debug/CMakeFiles/edit_cache.dir
+Z:/CSCI 262/Project_5_Animal/cmake-build-debug/CMakeFiles/rebuild_cache.dir

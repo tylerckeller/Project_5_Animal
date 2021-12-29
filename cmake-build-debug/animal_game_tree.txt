@@ -1,0 +1,9 @@
+Is it a mammal?
+Does it have stripes?
+Is it a zebra?
+Is it a lion?
+Does it have a shell?
+Does it fly?
+Is it an eagle?
+Is it a penguin?
+Is it a gila monster?
